@@ -1,0 +1,7 @@
+# Workspace settings
+.venv
+
+# Sample files
+samples/*/*.mp3
+
+
