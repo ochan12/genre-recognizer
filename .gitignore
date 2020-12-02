@@ -1,7 +1,11 @@
 # Workspace settings
 .venv
+.vscode
 
 # Sample files
 samples/*/*.mp3
+samples/*/*.wav
+samples/*/*.ogg
 
-
+# Cache
+__pycache__
